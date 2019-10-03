@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+}
+
+#app {
+    width: 100%;
+}
+
+.app-box {
+    max-width: 768px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 24px 0;
+}
+.btn{
+    display: block;
+    margin: 24px auto;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    position: relative;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    &:focus{
+        outline: none;
+    }
+    &-primary{
+        color: #fff;
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+    &:before{
+        content: "複製成功";
+        position: absolute;
+        top: 0px;
+        left: 0;
+        width: 100%;
+        color: #000;
+        background-color: #fffd81;
+        border-radius: 28px;
+        transition: all .6s;
+        opacity: 0;
+    }
+    &.tip{
+        &:before{
+            top: -26px;
+            opacity: 1;
+        }
+    }
+}
+#xml{
+    display: none;
+    opacity: 0;
+}
