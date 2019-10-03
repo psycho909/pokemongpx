@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="AllTrails https://www.alltrails.com/ - &amp;#26032;&amp;#21271;&amp;#22823;&amp;#37117;&amp;#26371;&amp;#20844;&amp;#22290;&amp;#27963;&amp;#21205;&amp;#23560;&amp;#29992;&amp;#22320;&amp;#22294;20191002gj" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>新北大都會公園活動專用地圖20191002gj</name>
+    <link href="https://www.gpsies.com/">
+      <text>新北大都會公園活動專用地圖20191002gj on AllTrails</text>
+    </link>
+    <time>2019-10-02T07:48:20Z</time>
+  </metadata>
+  <wpt lat="25.05598920" lon="121.4817740">
+    <ele>8.0000000</ele>
+    <time>2010-01-01T00:00:00Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05569740" lon="121.4816010">
+    <ele>6.0000000</ele>
+    <time>2010-01-01T00:00:13Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05509340" lon="121.4819410">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:00:40Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05525420" lon="121.4822670">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:00:53Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05519260" lon="121.4826480">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:01:07Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05521050" lon="121.4822720">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:01:21Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05475390" lon="121.4826340">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:01:44Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05462850" lon="121.4820220">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:02:06Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05388380" lon="121.4821700">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:02:37Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05396140" lon="121.4825220">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:02:50Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05399710" lon="121.4831400">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:03:12Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05364310" lon="121.4829320">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:03:28Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05342700" lon="121.4827760">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:03:39Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05351930" lon="121.4824440">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:03:51Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05348530" lon="121.4823630">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:03:54Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05324230" lon="121.4826850">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:04:10Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05286070" lon="121.4829960">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:04:29Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05286110" lon="121.4825840">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:04:44Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05283410" lon="121.4830390">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:05:00Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05248420" lon="121.4832860">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:05:17Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05243560" lon="121.4833560">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:05:20Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05204200" lon="121.4833020">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:05:36Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05194450" lon="121.4840470">
+    <ele>7.0000000</ele>
+    <time>2010-01-01T00:06:03Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05201280" lon="121.4833720">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:06:28Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05201280" lon="121.4832650">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:06:32Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05178630" lon="121.4825950">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:06:58Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05140920" lon="121.4825780">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:07:13Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05105290" lon="121.4817620">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:07:45Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05137840" lon="121.4819590">
+    <ele>6.0000000</ele>
+    <time>2010-01-01T00:08:00Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05160950" lon="121.4817630">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:08:12Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05180580" lon="121.4816970">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:08:20Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05188160" lon="121.4816450">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:08:24Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05198370" lon="121.4818750">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:08:33Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05208570" lon="121.4818480">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:08:37Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05208770" lon="121.4818980">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:08:39Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05214400" lon="121.4818700">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:08:42Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05236760" lon="121.4819990">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:08:52Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05263370" lon="121.4818860">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:09:03Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05329680" lon="121.4819100">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:09:30Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05367970" lon="121.4816290">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:09:48Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05375340" lon="121.4817750">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:09:54Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05374290" lon="121.4815910">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:10:01Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05414140" lon="121.4811560">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:10:23Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05413880" lon="121.4810360">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:10:28Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05419000" lon="121.4811140">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:10:31Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05487560" lon="121.4807130">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:11:02Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05489460" lon="121.4806580">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:11:04Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05501610" lon="121.4804910">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:11:12Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05497240" lon="121.4802550">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:11:21Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05486080" lon="121.4801970">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:11:26Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05479460" lon="121.4802620">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:11:29Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05500450" lon="121.4800680">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:11:40Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05493350" lon="121.4799820">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:11:44Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05419000" lon="121.4803570">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:12:17Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05411850" lon="121.4803520">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:12:20Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05374160" lon="121.4806090">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:12:38Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05320120" lon="121.4808480">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:13:01Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05333230" lon="121.4802550">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:13:23Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05320830" lon="121.4808080">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:13:44Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05320350" lon="121.4809100">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:13:48Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05277580" lon="121.4811240">
+    <ele>7.0000000</ele>
+    <time>2010-01-01T00:14:06Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05266830" lon="121.4809850">
+    <ele>7.0000000</ele>
+    <time>2010-01-01T00:14:13Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05278640" lon="121.4811980">
+    <ele>7.0000000</ele>
+    <time>2010-01-01T00:14:22Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05271750" lon="121.4811670">
+    <ele>7.0000000</ele>
+    <time>2010-01-01T00:14:25Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05215040" lon="121.4814540">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:14:50Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05571880" lon="121.4795750">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:17:28Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05488010" lon="121.4799820">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:18:05Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05457030" lon="121.4792280">
+    <ele>6.0000000</ele>
+    <time>2010-01-01T00:18:35Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05443300" lon="121.4790160">
+    <ele>6.0000000</ele>
+    <time>2010-01-01T00:18:44Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05403430" lon="121.4790480">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:19:00Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05385840" lon="121.4792470">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:19:10Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05325760" lon="121.4796320">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:19:38Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05404910" lon="121.4790590">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:20:16Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05443300" lon="121.4789780">
+    <ele>6.0000000</ele>
+    <time>2010-01-01T00:20:32Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05472780" lon="121.4788560">
+    <ele>8.0000000</ele>
+    <time>2010-01-01T00:20:44Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05476340" lon="121.4788550">
+    <ele>7.0000000</ele>
+    <time>2010-01-01T00:20:46Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05474880" lon="121.4784370">
+    <ele>6.0000000</ele>
+    <time>2010-01-01T00:21:01Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05484380" lon="121.4784600">
+    <ele>7.0000000</ele>
+    <time>2010-01-01T00:21:05Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05508900" lon="121.4785600">
+    <ele>8.0000000</ele>
+    <time>2010-01-01T00:21:15Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05535470" lon="121.4785640">
+    <ele>6.0000000</ele>
+    <time>2010-01-01T00:21:26Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05558960" lon="121.4785330">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:21:35Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05581310" lon="121.4785710">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:21:45Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05575960" lon="121.4790110">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:22:01Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05586170" lon="121.4794770">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:22:18Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05609500" lon="121.4793330">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:22:29Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05613580" lon="121.4793750">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:22:31Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05644330" lon="121.4790580">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:22:48Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05686000" lon="121.4788580">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:23:06Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05727320" lon="121.4786510">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:23:24Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05769170" lon="121.4784460">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:23:42Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05809320" lon="121.4782320">
+    <ele>6.0000000</ele>
+    <time>2010-01-01T00:24:00Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05844700" lon="121.4781090">
+    <ele>6.0000000</ele>
+    <time>2010-01-01T00:24:15Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05805340" lon="121.4778950">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:24:33Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05788810" lon="121.4777980">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:24:40Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05771830" lon="121.4777520">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:24:47Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05712700" lon="121.4777130">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:25:11Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05695020" lon="121.4782330">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:25:31Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05657470" lon="121.4783470">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:25:47Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05628450" lon="121.4783670">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:25:58Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05602010" lon="121.4784450">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:26:09Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05631850" lon="121.4783720">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:26:22Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05661010" lon="121.4783560">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:26:33Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05698910" lon="121.4782170">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:26:49Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05748480" lon="121.4777450">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:27:15Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05766460" lon="121.4777340">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:27:23Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05844210" lon="121.4781090">
+    <ele>6.0000000</ele>
+    <time>2010-01-01T00:27:57Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05890800" lon="121.4777420">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:28:19Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05890860" lon="121.4779220">
+    <ele>6.0000000</ele>
+    <time>2010-01-01T00:28:26Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05974450" lon="121.4775940">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:29:02Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05978820" lon="121.4775190">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:29:05Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06008810" lon="121.4776100">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:29:17Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06006900" lon="121.4775580">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:29:19Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06013320" lon="121.4776750">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:29:24Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06014150" lon="121.4782610">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:29:45Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06014290" lon="121.4780080">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:29:55Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06032760" lon="121.4780130">
+    <ele>-1.000000</ele>
+    <time>2010-01-01T00:30:02Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06050250" lon="121.4780500">
+    <ele>-2.000000</ele>
+    <time>2010-01-01T00:30:09Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06067750" lon="121.4781520">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:30:17Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06085240" lon="121.4783350">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:30:27Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06061920" lon="121.4784470">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:30:37Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06051220" lon="121.4784530">
+    <ele>-1.000000</ele>
+    <time>2010-01-01T00:30:41Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06040780" lon="121.4784630">
+    <ele>-1.000000</ele>
+    <time>2010-01-01T00:30:45Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06075040" lon="121.4784040">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:30:59Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06085650" lon="121.4782560">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:31:06Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06087180" lon="121.4786890">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:31:22Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06070180" lon="121.4789300">
+    <ele>-1.000000</ele>
+    <time>2010-01-01T00:31:33Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06093180" lon="121.4791580">
+    <ele>-2.000000</ele>
+    <time>2010-01-01T00:31:45Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06066360" lon="121.4789730">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:31:58Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06052680" lon="121.4790270">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:32:04Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.06012840" lon="121.4789090">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:32:20Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05984650" lon="121.4786240">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:32:36Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05974700" lon="121.4786090">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:32:40Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05976880" lon="121.4785280">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:32:43Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05963270" lon="121.4783880">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:32:50Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05944800" lon="121.4782860">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:32:58Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05941120" lon="121.4785270">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:33:07Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05940430" lon="121.4782700">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:33:17Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05910790" lon="121.4782330">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:33:28Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05885560" lon="121.4783140">
+    <ele>7.0000000</ele>
+    <time>2010-01-01T00:33:39Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05884860" lon="121.4785720">
+    <ele>6.0000000</ele>
+    <time>2010-01-01T00:33:48Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05917520" lon="121.4789360">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:34:07Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05911270" lon="121.4789730">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:34:10Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05864140" lon="121.4789090">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:34:29Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05811650" lon="121.4789250">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:34:50Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05837380" lon="121.4791450">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:35:03Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05844700" lon="121.4791930">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:35:06Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05849070" lon="121.4793490">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:35:12Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05881260" lon="121.4794400">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:35:25Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05897670" lon="121.4794930">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:35:32Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05886370" lon="121.4796430">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:35:39Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05884550" lon="121.4795740">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:35:42Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05902040" lon="121.4794720">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:35:50Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05937240" lon="121.4794630">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:36:04Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05933140" lon="121.4795360">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:36:07Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05949180" lon="121.4799710">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:36:24Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05946290" lon="121.4800570">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:36:27Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05901440" lon="121.4805150">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:36:52Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05772510" lon="121.4810150">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:37:47Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05702780" lon="121.4797110">
+    <ele>4.0000000</ele>
+    <time>2010-01-01T00:38:42Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05629420" lon="121.4808080">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:39:31Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05677800" lon="121.4814440">
+    <ele>1.0000000</ele>
+    <time>2010-01-01T00:40:01Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05615110" lon="121.4806390">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:40:40Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05602470" lon="121.4802410">
+    <ele>3.0000000</ele>
+    <time>2010-01-01T00:40:55Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05626500" lon="121.4808610">
+    <ele>2.0000000</ele>
+    <time>2010-01-01T00:41:19Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05601720" lon="121.4812690">
+    <ele>5.0000000</ele>
+    <time>2010-01-01T00:41:37Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05571590" lon="121.4815370">
+    <ele>6.0000000</ele>
+    <time>2010-01-01T00:41:53Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.05598920" lon="121.4817740">
+    <ele>8.0000000</ele>
+    <time>2010-01-01T00:42:07Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+</gpx>
+
