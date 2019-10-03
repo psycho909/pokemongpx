@@ -49,7 +49,8 @@
                             .replace(/>/g, '&gt;')
                             .replace(/"/g, '&quot;')
                         _this.$refs.xml.innerHTML=_xml;
-
+                    })
+                    .then((res)=>{
                         _this.$refs.xml.select();
                         document.execCommand('copy');
                         _this.gpxs[i].tip=true;
