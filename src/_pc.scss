@@ -12,9 +12,11 @@
     width: 100%;
     margin: 0 auto;
     padding: 24px 0;
+    text-align: center;
 }
-.btn{
-    display: block;
+
+.btn {
+    display: inline-block;
     margin: 24px auto;
     font-weight: 400;
     color: #212529;
@@ -29,15 +31,26 @@
     border-radius: 0.25rem;
     position: relative;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-    &:focus{
+    &-group{
+        text-align: center;
+    }
+    &:focus {
         outline: none;
     }
-    &-primary{
+
+    &-primary {
         color: #fff;
         background-color: #007bff;
         border-color: #007bff;
     }
-    &:before{
+
+    &-success {
+        color: #fff;
+        background-color: #28a745;
+        border-color: #28a745;
+    }
+
+    &:before {
         content: "複製成功";
         position: absolute;
         top: 0px;
@@ -49,13 +62,15 @@
         transition: all .6s;
         opacity: 0;
     }
-    &.tip{
-        &:before{
+
+    &.tip {
+        &:before {
             top: -26px;
             opacity: 1;
         }
     }
 }
-#xml{
+
+#xml {
     opacity: 1;
 }

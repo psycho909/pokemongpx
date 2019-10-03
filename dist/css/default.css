@@ -21,10 +21,11 @@
   width: 100%;
   margin: 0 auto;
   padding: 24px 0;
+  text-align: center;
 }
 
 .btn {
-  display: block;
+  display: inline-block;
   margin: 24px auto;
   font-weight: 400;
   color: #212529;
@@ -45,6 +46,10 @@
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
 }
 
+.btn-group {
+  text-align: center;
+}
+
 .btn:focus {
   outline: none;
 }
@@ -53,6 +58,12 @@
   color: #fff;
   background-color: #007bff;
   border-color: #007bff;
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
 }
 
 .btn:before {

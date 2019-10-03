@@ -12,7 +12,8 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/default.css">
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.0/axios.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.7/dist/vue.js"></script>
     <script src="js/default.js"></script>
 </head>
@@ -22,8 +23,11 @@
     <div id="app">
         <div class="app-box">
             <textarea id="xml" ref="xml"></textarea>
-            <button v-for="(gpx,index) in gpxs" :key="index" class="btn btn-primary" :class="{tip:gpx.tip}"
-                @click="getXML(gpx.path,index)">{{gpx.name}}</button>
+            <div class="btn-group" v-for="(gpx,index) in gpxs">
+                <button :key="index" class="btn btn-primary" :class="{tip:gpx.tip}"
+                    @click="getXML(gpx.path,index)">{{gpx.name}}</button>
+                <button @click="copyEvent" id="copy" class="btn btn-success" data-clipboard-target="#xml">複製</button>
+            </div>
         </div>
     </div>
 
@@ -32,32 +36,31 @@
             el: "#app",
             data: {
                 gpxs: [
-                    { name: "西門紅樓", path: "gpx/ximen.xml", en: "ximen",tip:false },
-                    { name: "新北大都會公園", path: "gpx/newTaipei.xml", en: "newTaipei",tip:false },
+                    { name: "西門紅樓", path: "gpx/ximen.xml", en: "ximen", tip: false },
+                    { name: "新北大都會公園", path: "gpx/newTaipei.xml", en: "newTaipei", tip: false },
                 ]
             },
             methods: {
-                getXML(path,i) {
-                    var _this=this;
-                    axios({
+                getXML(path, i) {
+                    var _this = this;
+                    $.ajax({
                         url: path,
                         method: "get",
-                        responseType: 'text'
+                        dataType: 'text',
+                        success: function (res) {
+                            var _xml = res.replace(/</g, '&lt;')
+                                .replace(/>/g, '&gt;')
+                                .replace(/"/g, '&quot;')
+                            _this.$refs.xml.innerHTML = _xml;
+                        }
                     })
-                    .then((res) => {
-                        var _xml = res.data.replace(/</g, '&lt;')
-                            .replace(/>/g, '&gt;')
-                            .replace(/"/g, '&quot;')
-                        _this.$refs.xml.innerHTML=_xml;
-                    })
-                    .then((res)=>{
-                        _this.$refs.xml.select();
-                        document.execCommand('copy');
-                        _this.gpxs[i].tip=true;
-                        setTimeout(function(){
-                            _this.gpxs[i].tip=false;
-                        },1000)
-                    })
+                },
+                copyEvent() {
+                    var clipboard = new ClipboardJS('#copy');
+                    clipboard.on('success', function (e) {
+                        console.info('Action:', e.action);
+                    });
+
                 }
             }
         })
