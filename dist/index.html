@@ -26,7 +26,7 @@
             <div class="btn-group" v-for="(gpx,index) in gpxs">
                 <button :key="index" class="btn btn-primary" :class="{tip:gpx.tip}"
                     @click="getXML(gpx.path,index)">{{gpx.name}}</button>
-                <button @click="copyEvent" id="copy" class="btn btn-success" data-clipboard-target="#xml">複製</button>
+                <button @click="copyEvent" id="copy" class="btn btn-success"  data-clipboard-target="#xml">複製</button>
             </div>
         </div>
     </div>
@@ -52,6 +52,10 @@
                                 .replace(/>/g, '&gt;')
                                 .replace(/"/g, '&quot;')
                             _this.$refs.xml.innerHTML = _xml;
+                            _this.gpxs[i].tip=true;
+                            setInterval(() => {
+                                _this.gpxs[i].tip=false;
+                            }, 800);
                         }
                     })
                 },
