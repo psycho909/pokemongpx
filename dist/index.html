@@ -22,12 +22,12 @@
     <!-- 內容開始 -->
     <div id="app">
         <div class="app-box">
-            <textarea id="xml" ref="xml"></textarea>
             <div class="btn-group" v-for="(gpx,index) in gpxs">
                 <button :key="index" class="btn btn-primary" :class="{tip:gpx.tip}"
                     @click="getXML(gpx.path,index)">{{gpx.name}}</button>
                 <button @click="copyEvent" id="copy" class="btn btn-success"  data-clipboard-target="#xml">複製</button>
             </div>
+            <textarea id="xml" ref="xml"></textarea>
         </div>
     </div>
 
@@ -38,6 +38,7 @@
                 gpxs: [
                     { name: "西門紅樓", path: "gpx/ximen.xml", en: "ximen", tip: false },
                     { name: "新北大都會公園", path: "gpx/newTaipei.xml", en: "newTaipei", tip: false },
+                    { name: "大安森林公園", path: "gpx/daan.xml", en: "daan", tip: false },
                 ]
             },
             methods: {
